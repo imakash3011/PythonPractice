@@ -1,0 +1,11 @@
+laptop
+mouse
+keyboard
+camera
+white
+blue
+ black
+ yellow
+blue
+black
+yellow
